@@ -1,0 +1,9 @@
+body{
+    background-color: gold;
+    background-image: url(../assets/oracle_bgimg.jpg) !important;  
+    background-size: cover !important;
+}
+.apex-item-text{
+    border-radius: 0px;
+    background-color: linen;
+}
